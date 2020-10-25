@@ -5,9 +5,9 @@ public int num;
 public String id;
 public int stuNo;
 public String name;
-public int courseNumber;//用数组length
-public char sex;//true 男，false 女
-public String course;//改成数组
+public int courseNumber;
+public char sex;
+public String course;
 People(){}
 
 People(String id[],String name){
