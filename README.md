@@ -7,6 +7,8 @@
 ### 3.掌握类的继承用法，通过构造方法实例化对象；
 ### 4.学会使用super()，用于实例化子类；
 ### 5.掌握使用Object根类的toString（）方法,应用在相关对象的信息输出中。
+## 思维导图
+![1](https://github.com/Wangjiazeng123/-/blob/main/43a582fd0df92b7b15b9655c9aa729c.png)
 ## 核心方法
 ### 1.方法一
 public static void courseChoose(int No) {//选择课程并打印老师
