@@ -1,8 +1,4 @@
 package Information;
-
-import java.util.Scanner;
-
-
 public class Teacher extends People {
 	private String teacherName;
 	private String teacherId;
