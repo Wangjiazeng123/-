@@ -9,6 +9,8 @@
 ### 5.掌握使用Object根类的toString（）方法,应用在相关对象的信息输出中。
 ## 思维导图
 ![1](https://github.com/Wangjiazeng123/-/blob/main/43a582fd0df92b7b15b9655c9aa729c.png)
+## 实验过程
+1.定义四个普通类和一个主类。2.普通类分别定义人员，教室，学生，课程。3.每个类分别添加名字，性别，学号，课程等属性。4.在主类里调用四个普通类，根据各属性输出值。
 ## 核心方法
 ### 1.方法一
 public static void courseChoose(int No) {//选择课程并打印老师
